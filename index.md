@@ -25,5 +25,5 @@ I’ve tried many different ways to help make it better. One way to do this is t
 
 ## Advocate
 * [Instagram](https://www.instagram.com/koshcher_sw/) and [Youtube](https://www.youtube.com/channel/UC76gVI16vbdC1Bwa87bECyw)
-* Share your Norman experience in forums and social networks.
-* Post a video about Norman.
+* Share your Koshak experience in forums and social networks.
+* Post a video about Koshak.
