@@ -1,4 +1,4 @@
-![Layout image](img/layout.png)
+![Layout image](img/layout-without-back.png)
 
 # The Koshak Keyboard Layout Philosophy
 
