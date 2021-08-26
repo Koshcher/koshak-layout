@@ -17,6 +17,14 @@ in a non-ergonomic layout. However, there are alternatives.
 
 
 ## Compare
+- Alice in wonderland
+![Alice in wonderland](img/alice-in-wonderland.png)
+
+- Common SAT words
+![Common SAT words](img/common-SAT-words.png)
+
+- Common words
+![Common words](img/common-words.png)
 
 ## Downloads
 
