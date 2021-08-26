@@ -10,7 +10,6 @@ Below are the average percentages for each hand. QWERTY has about a 4% lean towa
 the right by about 5%, and Dvorak, 7%. **Koshak balances the
 load between the left and right hands near 50% (leans to
 the right by only 1.5%).**
-
 ![Analyze 1](img/analyze-1.png)
 
 ![Analyze 2](img/analyze-2.png)
