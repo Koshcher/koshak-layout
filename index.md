@@ -25,7 +25,7 @@
 
 ## I am grateful to:
 - ze_or#1616 and Boo#4686, they gave good advice
-- Alt Keyboard Layout discord server https://discord.gg/7rQp5ptF
+- [Alt Keyboard Layout](https://discord.gg/7rQp5ptF) discord server
 - Workman layout, it interested me in creating my own layout
 
 ## Advocate
