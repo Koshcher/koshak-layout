@@ -28,23 +28,23 @@ Speed is about typing efficiency. You can see it in comparison with other layout
 ## Detailed analyzes
 
 - Heat map
-- 
+
 ![Heat map](img/heat-map.png)
 
 - Finger bigram frequency
-- 
+
 ![Finger bigram frequency](img/finger-bigram-frequency.png)
 
 - Top bigrams
-- 
+
 ![Top bigrams](img/top-bigrams.png)
 
 - Finger effort
-- 
+
 ![Finger effort](img/finger-effort.png)
 
 - Finger usage
-- 
+
 ![Finger usage](img/finger-usage.png)
 
 ## Downloads
