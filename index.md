@@ -13,10 +13,6 @@ the right by only 1.5%).**
 
 ![Analyze 1](img/analyze-1.png)
 
-![Analyze 2](img/analyze-2.png)
-![Analyze 3](img/analyze-3.png)
-
-
 ## Why speed?
 Speed is about typing efficiency. You can see it in comparison with other layouts. 
 
