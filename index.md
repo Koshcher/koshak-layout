@@ -6,6 +6,10 @@
 
 ## Analyzes
   
+![Analyze 1](img/analyze-1.png)
+![Analyze 2](img/analyze-2.png)
+![Analyze 3](img/analyze-3.png)
+![Analyze 4](img/finger-usage.png)
 
 
 ## Compare
