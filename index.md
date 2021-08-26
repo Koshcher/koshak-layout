@@ -27,6 +27,10 @@ in a non-ergonomic layout. However, there are alternatives.
 ![Common words](img/common-words.png)
 
 ## Downloads
+- [Windows](download/koshak-windows.zip)
+- [Mac](download/koshak-mac.zip)
+- [Linux](download/koshak-linux.zip)
+
 
 ## Advocate
 * [instagram url](https://www.instagram.com/koshcher_sw/)
