@@ -42,6 +42,11 @@ Speed is about typing efficiency. You can see it in comparison with other layout
 - Finger usage
 ![Finger usage](img/finger-usage.png)
 
+- Row distribution
+  - Top: 17%
+  - Home: 65%
+  - Bot: 12%
+
 ## Downloads
 - [Windows](download/koshak-windows.zip)
 - [Mac](download/koshak-mac.zip)
