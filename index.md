@@ -25,6 +25,18 @@ Speed is about typing efficiency. You can see it in comparison with other layout
 - Common words
 ![Common words](img/common-words.png)
 
+## Detailed analyzes
+
+![Heat map](img/heat-map.png)
+
+![Analyze 4](img/analyze-4.png)
+
+![Analyze 2](img/analyze-2.png)
+
+![Analyze 3](img/analyze-3.png)
+
+![Finger usage](img/finger-usage.png)
+
 ## Downloads
 - [Windows](download/koshak-windows.zip)
 - [Mac](download/koshak-mac.zip)
