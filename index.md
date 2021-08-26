@@ -4,6 +4,8 @@
 
 ![Layout image](img/layout.png)
 
+The original idea was to create a layout as fast as possible. However, in the process, I decided to think about convenience and balance in the process. Thus, creating a layout for both fast typers and users who value convenience.
+
 ## Why balance?
 
 Below are the average percentages for each hand. QWERTY has about a 4% lean towards the left while Colemak leans to
