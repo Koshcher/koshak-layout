@@ -48,9 +48,6 @@ Speed is about typing efficiency. You can see it in comparison with other layout
 - Finger effort
 ![Finger effort](img/finger-effort.png)
 
-- Finger usage
-![Finger usage](img/finger-usage.png)
-
 ## Downloads
 - [Windows](download/koshak-windows.zip)
 - [Mac](download/koshak-mac.zip)
