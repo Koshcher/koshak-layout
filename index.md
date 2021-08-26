@@ -1,8 +1,36 @@
-<title>Koshak</title>
-
 ![Layout image](img/layout.png)
 
-## Welcome to GitHub Pages
+# The Koshak Keyboard Layout Philosophy
+
+*By Roman Koshchey, August 26, 2021*
+
+1. [About](#about)
+1. [Compare](#compare)
+1. [Downloads](#downloads)
+1. [Advocate](#advocate)
+
+## About
+
+Being a programmer, I type a lot and I suffer from Repetitive Strain Injury
+(RSI) and tendonitis on my wrist. I’ve tried many different ways to help make
+it better. One way to do this is to switch to a different keyboard layout
+other than [QWERTY](http://en.wikipedia.org/wiki/QWERTY). QWERTY was
+supposedly designed for typewriters to solve a very specific problem–to
+keep the types from jamming against each other. The most frequently used keys
+were placed apart from each other to prevent them from jamming. This results
+in a non-ergonomic layout. However, there are alternatives.
+
+
+## Compare
+
+## Downloads
+
+## Advocate
+* [instagram url](https://www.instagram.com/koshcher_sw/)
+* [youtube url](https://www.youtube.com/channel/UC76gVI16vbdC1Bwa87bECyw)
+* Share your Norman experience in forums and social networks.
+* Post a video about Norman.
+
 
 You can use the [editor on GitHub](https://github.com/Koshcher/koshak-layout/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -41,18 +69,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-
-# The Workman Keyboard Layout Philosophy
-
-*By OJ Bucao, September 6, 2010*
-
-1. [Introduction](#introduction)
-1. [The Problem with Colemak](#the-problem-with-colemak)
-1. [Back to the Drawing Board](#back-to-the-drawing-board)
-1. [Introducing the Workman Keyboard Layout](#introducing-the-workman-keyboard-layout)
-1. [Pros and Cons](#pros-and-cons)
-1. [Key Usage Visualization](#key-usage-visualization)
-1. [Tests Using Popular Books](#tests-using-popular-books)
 
 ## Introduction
 
