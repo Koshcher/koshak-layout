@@ -4,8 +4,9 @@
 
 ![Layout image](img/layout.png)
 
-## About
-I’ve tried many different ways to help make it better. One way to do this is to switch to a different keyboard layout other than [QWERTY](http://en.wikipedia.org/wiki/QWERTY). QWERTY was supposedly designed for typewriters to solve a very specific problem–to keep the types from jamming against each other. The most frequently used keys were placed apart from each other to prevent them from jamming. This results in a non-ergonomic layout. However, there are alternatives.
+## Analyzes
+  
+
 
 ## Compare
 ##### Alice in wonderland
@@ -21,6 +22,11 @@ I’ve tried many different ways to help make it better. One way to do this is t
 - [Windows](download/koshak-windows.zip)
 - [Mac](download/koshak-mac.zip)
 - [Linux](download/koshak-linux.zip)
+
+## I am grateful to:
+- ze_or#1616 and Boo#4686, they gave good advice
+- Alt Keyboard Layout discord server https://discord.gg/D23a7rMJ
+- Workman layout, it interested me in creating my own layout
 
 
 ## Advocate
