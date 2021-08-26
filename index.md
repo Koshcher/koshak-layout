@@ -33,8 +33,7 @@ in a non-ergonomic layout. However, there are alternatives.
 
 
 ## Advocate
-* [instagram url](https://www.instagram.com/koshcher_sw/)
-* [youtube url](https://www.youtube.com/channel/UC76gVI16vbdC1Bwa87bECyw)
+* [Instagram](https://www.instagram.com/koshcher_sw/) and [Youtube](https://www.youtube.com/channel/UC76gVI16vbdC1Bwa87bECyw)
 * Share your Norman experience in forums and social networks.
 * Post a video about Norman.
 
