@@ -47,6 +47,10 @@ Speed is about typing efficiency. You can see it in comparison with other layout
   - Home: 65%
   - Bot: 12%
 
+- Special indicators
+  - Alternation: 35%
+  - Redirections: 7%
+
 ## Downloads
 - [Windows](download/koshak-windows.zip)
 - [Mac](download/koshak-mac.zip)
