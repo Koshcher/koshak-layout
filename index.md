@@ -1,3 +1,7 @@
+<title>Koshak</title>
+
+![Layout image](img/layout.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Koshcher/koshak-layout/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
