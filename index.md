@@ -62,5 +62,7 @@ Speed is about typing efficiency. You can see it in comparison with other layout
 
 ## Used sources
 - [Semi's key analyzer](https://github.com/semilin/key-analyzer)
-- [Colemak Mod-DH Layout Analysis Tool](https://colemakmods.github.io/mod-dh/analyze.html)
-- [Keyboard Layout Analyzer - SteveP's fork!](https://stevep99.github.io/keyboard-layout-analyzer)
+- [Mod DH Analyzer](https://colemakmods.github.io/mod-dh/analyze.html)
+- SteveP Analyzer](https://stevep99.github.io/keyboard-layout-analyzer)
+- [Keyboard layouts doc](https://bit.ly/keyboard-layouts-doc) <- info about stats and multiple layouts
+- 
