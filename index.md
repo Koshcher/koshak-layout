@@ -33,15 +33,6 @@ Speed is about typing efficiency. You can see it in comparison with other layout
 - Finger bigram frequency
 ![Finger bigram frequency](img/finger-bigram-frequency.png)
 
-- Top bigrams
-![Top bigrams](img/top-bigrams.png)
-
-- Finger effort
-![Finger effort](img/finger-effort.png)
-
-- Finger usage
-![Finger usage](img/finger-usage.png)
-
 - Row distribution
   - Top: 17%
   - Home: 65%
@@ -50,6 +41,15 @@ Speed is about typing efficiency. You can see it in comparison with other layout
 - Special indicators
   - Alternation: 35%
   - Redirections: 7%
+
+- Top bigrams
+![Top bigrams](img/top-bigrams.png)
+
+- Finger effort
+![Finger effort](img/finger-effort.png)
+
+- Finger usage
+![Finger usage](img/finger-usage.png)
 
 ## Downloads
 - [Windows](download/koshak-windows.zip)
