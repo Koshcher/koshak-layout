@@ -25,9 +25,8 @@
 
 ## I am grateful to:
 - ze_or#1616 and Boo#4686, they gave good advice
-- Alt Keyboard Layout discord server https://discord.gg/D23a7rMJ
+- Alt Keyboard Layout discord server https://discord.gg/7rQp5ptF
 - Workman layout, it interested me in creating my own layout
-
 
 ## Advocate
 * [Instagram](https://www.instagram.com/koshcher_sw/) and [Youtube](https://www.youtube.com/channel/UC76gVI16vbdC1Bwa87bECyw)
