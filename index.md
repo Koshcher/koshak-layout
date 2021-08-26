@@ -1,13 +1,8 @@
-![Layout image](img/layout.png)
-
-# The Koshak Keyboard Layout Philosophy
+# Introduction
 
 *By Roman Koshchey, August 26, 2021*
 
-1. [About](#about)
-1. [Compare](#compare)
-1. [Downloads](#downloads)
-1. [Advocate](#advocate)
+![Layout image](img/layout.png)
 
 ## About
 
