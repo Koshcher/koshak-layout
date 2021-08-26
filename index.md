@@ -60,7 +60,7 @@ Speed is about typing efficiency. You can see it in comparison with other layout
 - [Alt Keyboard Layout](https://discord.gg/7rQp5ptF) discord server
 - Workman layout, it interested me in creating my own layout
 
-## Advocate
-- [Instagram](https://www.instagram.com/koshcher_sw/) and [Youtube](https://www.youtube.com/channel/UC76gVI16vbdC1Bwa87bECyw)
-- Share your Koshak experience in forums and social networks.
-- Post a video about Koshak.
+## Used sources
+- [Semi's key analyzer](https://github.com/semilin/key-analyzer)
+- [Colemak Mod-DH Layout Analysis Tool](https://colemakmods.github.io/mod-dh/analyze.html)
+- [Keyboard Layout Analyzer - SteveP's fork!](https://stevep99.github.io/keyboard-layout-analyzer)
