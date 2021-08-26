@@ -5,16 +5,7 @@
 ![Layout image](img/layout.png)
 
 ## About
-
-Being a programmer, I type a lot and I suffer from Repetitive Strain Injury
-(RSI) and tendonitis on my wrist. I’ve tried many different ways to help make
-it better. One way to do this is to switch to a different keyboard layout
-other than [QWERTY](http://en.wikipedia.org/wiki/QWERTY). QWERTY was
-supposedly designed for typewriters to solve a very specific problem–to
-keep the types from jamming against each other. The most frequently used keys
-were placed apart from each other to prevent them from jamming. This results
-in a non-ergonomic layout. However, there are alternatives.
-
+I’ve tried many different ways to help make it better. One way to do this is to switch to a different keyboard layout other than [QWERTY](http://en.wikipedia.org/wiki/QWERTY). QWERTY was supposedly designed for typewriters to solve a very specific problem–to keep the types from jamming against each other. The most frequently used keys were placed apart from each other to prevent them from jamming. This results in a non-ergonomic layout. However, there are alternatives.
 
 ## Compare
 - Alice in wonderland
