@@ -4,7 +4,7 @@
 
 ![Layout image](img/layout.png)
 
-## Analyzes
+## Why balance?
 
 Below are the average percentages for each hand. QWERTY has about a 4% lean towards the left while Colemak leans to
 the right by about 5%, and Dvorak, 7%. **Koshak balances the
@@ -15,10 +15,11 @@ the right by only 1.5%).**
 
 ![Analyze 2](img/analyze-2.png)
 ![Analyze 3](img/analyze-3.png)
-![Analyze 4](img/finger-usage.png)
 
 
-## Compare
+## Why speed?
+Speed is about typing efficiency. You can see it in comparison with other layouts. 
+
 - Alice in wonderland
 ![Alice in wonderland](img/alice-in-wonderland.png)
 
