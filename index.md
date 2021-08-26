@@ -1,4 +1,6 @@
-<title>Koshak</title>
+<head>
+	<title>Koshak</title>
+</head>
 
 ![Layout image](img/layout.png)
 
