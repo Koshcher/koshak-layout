@@ -3,6 +3,5 @@ description: The Layout Designed for speed and balance
 show_downloads: true
 theme: jekyll-theme-leap-day
 github:
-  zip_url: download/koshak-layout-all.zip
-  tar_url: download/koshak-layout-all.tar.gz
+  zip_url: download/koshak-layout-all.zij
 google_analytics: G-3DER8V21NQ
