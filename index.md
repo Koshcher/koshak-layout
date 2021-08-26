@@ -1,7 +1,3 @@
-<head>
-	<title>Koshak</title>
-</head>
-
 ![Layout image](img/layout.png)
 
 ## Welcome to GitHub Pages
