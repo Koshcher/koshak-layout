@@ -46,12 +46,11 @@ Speed is about typing efficiency. You can see it in comparison with other layout
 - Finger effort
 ![Finger effort](img/finger-effort.png)
 
-- Semi's analyzer
+- Semi's analyzer                                              
 Rolls: ~51.25%                        
 Alternates: ~19.78%                        
 Onehands: ~6.49%                         
 Redirects: ~14.58%                                     
-
 SFBs: 2.155%                                        
 DSFBs: 8.148%                                     
 
