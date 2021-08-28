@@ -40,15 +40,38 @@ Speed is about typing efficiency. You can see it in comparison with other layout
   - Home: 65%
   - Bot: 12%
 
-- Special indicators
-  - Alternation: 35%
-  - Redirections: 7%
-
 - Top bigrams
 ![Top bigrams](img/top-bigrams.png)
 
 - Finger effort
 ![Finger effort](img/finger-effort.png)
+
+- Semi's analyzer
+```
+q v u l .  , m h k j
+a r e s w  p t n o i '
+z y c g /  f d b x ;
+Rolls: ~51.25%
+Alternates: ~19.78%
+Onehands: ~6.49%
+Redirects: ~14.58%
+Finger Speed (weighted): [0.11 0.61 4.45 10.65 5.72 0.75 0.50 0.82]
+Finger Speed (unweighted): [0.16 2.20 21.36 58.60 31.47 3.61 1.79 1.23]
+Highest Speed (weighted): 10.65 (LI)
+Highest Speed (unweighted): 58.60 (LI)
+Index Usage: 18.7% 20%
+SFBs: 2.155%
+DSFBs: 8.148%
+Top SFBs:
+        s. 0.263%       mp 0.222%       ls 0.165%       ey 0.163%
+        cl 0.161%       sc 0.138%       ue 0.129%       ye 0.123%
+
+Worst Bigrams:
+        lc 47.937       uy 31.417       ey 25.461       sc 24.356
+        .s 15.331       lg 14.498       ue 12.772       mp 12.560
+
+Score: 74.29
+```
 
 ## Downloads
 - [Windows](download/koshak-windows.zip)
