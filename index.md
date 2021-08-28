@@ -47,10 +47,6 @@ Speed is about typing efficiency. You can see it in comparison with other layout
 ![Finger effort](img/finger-effort.png)
 
 - Semi's analyzer
-```
-q v u l .  , m h k j
-a r e s w  p t n o i '
-z y c g /  f d b x ;
 Rolls: ~51.25%
 Alternates: ~19.78%
 Onehands: ~6.49%
@@ -71,7 +67,6 @@ Worst Bigrams:
         .s 15.331       lg 14.498       ue 12.772       mp 12.560
 
 Score: 74.29
-```
 
 ## Downloads
 - [Windows](download/koshak-windows.zip)
